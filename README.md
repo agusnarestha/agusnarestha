@@ -1,9 +1,12 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<p align="center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-agusnarestha-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/agusnarestha/)](https://linkedin.com/in/agusnarestha)
-[![Twitter Badge](https://img.shields.io/badge/-@agusnarestha-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/agusnarestha)](https://twitter.com/agusnarestha)
-[![Instagram Badge](https://img.shields.io/badge/-@agusnarestha-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/agusnarestha/)](https://instagram.com/agusnarestha)
-[![Gmail Badge](https://img.shields.io/badge/-agusnaresthaa-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:agusnaresthaa@gmail.com)](mailto:agusnaresthaa@gmail.com)
+<p  align="center"><img height="300" src = "https://github.com/agusnarestha/agusnarestha/blob/master/gusnar.jpg"></p>
+<p  align="center"><img src = "https://github.com/agusnarestha/agusnarestha/blob/master/rainbow.gif"></p>
+<p align="center">
+<a href="https://twitter.com/agusnarestha" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="agusnarestha"/></a>
+<a href="https://linkedin.com/in/agusnarestha" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="agusnarestha"/></a>
+<a href="https://fb.com/agusnarestha" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="agusnarestha"/></a>
+<a href="https://instagram.com/agusnarestha" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="agusnarestha" height="30" width="40" /></a>
+</p>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agusnarestha&show_icons=true&locale=en&layout=compact" alt="agusnarestha" /></p>
+<p img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agusnarestha&show_icons=true&locale=en&layout=compact" alt="agusnarestha" /></p>
