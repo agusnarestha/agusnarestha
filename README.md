@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Agus Narestha</h1>
 <h3 align="center">Your ex crush 😋</h3>
 
-<p align="left"> <a href="https://twitter.com/agusnarestha" target="blank"><img src="https://img.shields.io/twitter/follow/agusnarestha?logo=twitter&style=for-the-badge" alt="agusnarestha" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/agusnarestha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="agusnarestha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/agusnarestha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="agusnarestha" height="30" width="40" /></a>
-<a href="https://fb.com/agusnarestha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="agusnarestha" height="30" width="40" /></a>
-<a href="https://instagram.com/agusnarestha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="agusnarestha" height="30" width="40" /></a>
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-agusnarestha-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/agusnarestha/)](https://linkedin.com/in/agusnarestha)
+[![Twitter Badge](https://img.shields.io/badge/-@agusnarestha-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/agusnarestha)](https://twitter.com/agusnarestha)
+[![Instagram Badge](https://img.shields.io/badge/-@agusnarestha-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/agusnarestha/)](https://instagram.com/agusnarestha)
+[![Gmail Badge](https://img.shields.io/badge/-agusnaresthaa-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:agusnaresthaa@gmail.com)](mailto:agusnaresthaa@gmail.com)
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agusnarestha&show_icons=true&locale=en&layout=compact" alt="agusnarestha" /></p>
