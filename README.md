@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Agus Narestha</h1>
-<h3 align="center">Your ex crush 😋</h3>
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-agusnarestha-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/agusnarestha/)](https://linkedin.com/in/agusnarestha)
 [![Twitter Badge](https://img.shields.io/badge/-@agusnarestha-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/agusnarestha)](https://twitter.com/agusnarestha)
