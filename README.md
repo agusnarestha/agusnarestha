@@ -7,3 +7,4 @@
   <a href="https://fb.com/agusnarestha" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="agusnarestha"/></a>
   <a href="https://instagram.com/agusnarestha" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="agusnarestha"/></a>
 </p>
+<p  align="center"><img src = "https://github.com/agusnarestha/agusnarestha/blob/master/rainbow.gif"></p>
